@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeBlockFit.BL
+namespace CodeBlockFit.CMD
 {
-    public class Class1
+    internal class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }

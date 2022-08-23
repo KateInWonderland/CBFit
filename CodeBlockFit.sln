@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlockFit.BL", "CodeBlockFit.BL\CodeBlockFit.BL.csproj", "{B5AF0809-08EB-4D57-AE07-CD6D1DB7130B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlockFit.CMD", "CodeBlockFit.CMD\CodeBlockFit.CMD.csproj", "{D36CFBF7-0C9A-47F9-97AF-229428A5D915}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B5AF0809-08EB-4D57-AE07-CD6D1DB7130B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5AF0809-08EB-4D57-AE07-CD6D1DB7130B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5AF0809-08EB-4D57-AE07-CD6D1DB7130B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36CFBF7-0C9A-47F9-97AF-229428A5D915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36CFBF7-0C9A-47F9-97AF-229428A5D915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36CFBF7-0C9A-47F9-97AF-229428A5D915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36CFBF7-0C9A-47F9-97AF-229428A5D915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
